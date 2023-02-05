@@ -24,11 +24,11 @@ def collect_color_sensor_data():
         file1 = open(COLOR_SENSOR_DATA_FILE, "w")
         while True:
             if TOUCH_SENSOR.is_pressed():
-                file1.write(COLOUR_SENSOR.get_rgb())
-    except BaseException:
+                file1.write(str(COLOR_SENSOR.get_rgb()) + "\n")
+                print(COLOR_SENSOR.get_rgb())
+    except BaseException as exception:
+        print(exception)
         exit()
-    finally:
-        file1.close()
 
 
 if __name__ == "__main__":
