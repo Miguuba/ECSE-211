@@ -15,7 +15,7 @@ We love ducks, the STM, and Rick Astley. Our shared goal is to make a better rob
     </tr>
     <tr>
         <td> <a href="https://github.com">Sirine Tarhouni</a> </td>
-        <td> <a href="https://github.com/notkaramel">Tom Gourru-Bourgois</a> </td>
+        <td> <a href="https://github.com/TomGB5553">Tom Gourru-Bourgois</a> </td>
     </tr>
 </table>
 
