@@ -9,7 +9,7 @@ It must be run on the robot.
 from utils.brick import EV3ColorSensor, wait_ready_sensors, TouchSensor
 
 
-COLOR_SENSOR_DATA_FILE = "../data_analysis/red_color_sensor.csv"
+COLOR_SENSOR_DATA_FILE = "../data_analysis/green_color_sensor.csv"
 
 # complete this based on your hardware setup
 COLOR_SENSOR = EV3ColorSensor(3)
