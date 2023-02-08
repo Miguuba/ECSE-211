@@ -19,7 +19,7 @@ We love ducks, the STM, and Rick Astley. Our shared goal is to make a better rob
     </tr>
 </table>
 
-## Mini-project (Lab 1-2-3)
+## Mini-project (Labs 1-2-3)
 - Lab 1: Team Introduction, "Marching Band" Design Problem
 - Lab 2: Sensors testing (Subteam ```dpm-17```: Adam, Noor, Rui Yi | ```dpm-18``` Antoine, Sirine, Tom)
   - [x] Touch Sensor
