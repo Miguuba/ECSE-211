@@ -15,11 +15,11 @@ We love ducks, the STM, and Rick Astley. Our shared goal is to make a better rob
     </tr>
     <tr>
         <td> <a href="https://github.com">Sirine Tarhouni</a> </td>
-        <td> <a href="https://github.com/TomGB5553">Tom Gourru-Bourgois</a> </td>
+        <td> <a href="https://github.com/TomGB5553">Tom Gourru-Bourgeois</a> </td>
     </tr>
 </table>
 
-## Mini-project (Lab 1-2-3)
+## Mini-project (Labs 1-2-3)
 - Lab 1: Team Introduction, "Marching Band" Design Problem
 - Lab 2: Sensors testing (Subteam ```dpm-17```: Adam, Noor, Rui Yi | ```dpm-18``` Antoine, Sirine, Tom)
   - [x] Touch Sensor
